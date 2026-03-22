@@ -1,0 +1,2 @@
+squash & merge 테스트
+가보자
